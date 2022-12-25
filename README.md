@@ -1,4 +1,4 @@
-# text-summarization-flask
+# text-summarization-streamlit
 
 ## Overview
 
